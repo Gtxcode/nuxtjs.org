@@ -1,5 +1,6 @@
 image:
   file: .gitpod.Dockerfile
+ # Defined ports to open preview and ignore
 ports:
   - port: 3000
     onOpen: open-preview
